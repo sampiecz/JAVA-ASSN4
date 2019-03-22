@@ -1,3 +1,16 @@
+/************************************************************
+ *                                                          *
+ *  CSCI 470-1   Assignment 4                   Spring 2019 *
+ *                                                          *
+ *  Programmer:  Samuel Piecz                               *  
+ *               z1732715                                   *
+ *                                                          * 
+ *                                                          *   
+ *                                                          *
+ *  Date Due:    3/19/19                                    *
+ *                                                          *
+ ************************************************************/ 
+
 import java.awt.GridLayout;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
