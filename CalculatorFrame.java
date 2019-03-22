@@ -16,10 +16,6 @@ public class CalculatorFrame extends JFrame implements ActionListener
 	private final JButton[] buttons; // array of buttons
 	private static final String[] names = 
 	{"7", "8", "9", "C", "4", "5", "6", "*", "1", "2", "3", "-", "0", ".", "=", "+"};
-/*
-	private final Container container; // frame container
-
-*/
 
 	public CalculatorFrame()
 	{

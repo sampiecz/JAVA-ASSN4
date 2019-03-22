@@ -5,7 +5,9 @@ JC = javac
 
 CLASSES = \
 CalculatorFrame.java\
-CalculatorTest.java
+CalculatorTest.java\
+AlignFrame.java\
+AlignTest.java
 
 default: classes
 
