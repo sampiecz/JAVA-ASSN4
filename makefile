@@ -4,8 +4,8 @@ JC = javac
 .java.class: ; $(JC) $(JFLAGS) $*.java
 
 CLASSES = \
-Align.java\
-Calculator.java
+AlignFrame.java\
+AlignTest.java
 
 default: classes
 
